@@ -34,12 +34,12 @@ function Contact() {
         <div className="contact_wrapper">
           <h1>Contact Me</h1>
           <p></p>
-          <Box
+          {/* <Box
             ref={form}
             component="form"
             noValidate
             autoComplete="off"
-            className='contact-form'
+            className='contact-form' */}
           >
             <div className='form-flex'>
               <TextField
